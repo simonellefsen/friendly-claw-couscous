@@ -3,7 +3,7 @@
 _Quick-access facts, IDs, endpoints, etc._
 
 ## Lindau
-- Employer: Corti.ai, Copenhagen
+- Employer: [REDACTED]
 - Role: Observability Platform Engineer
 - Started: ~2026-02-24
 
@@ -12,4 +12,4 @@ _Quick-access facts, IDs, endpoints, etc._
 - OS: Linux 6.19.3
 - Config: /home/openclaw/.openclaw/openclaw.json
 - Telegram bot: @SLindauBot
-- Telegram group ID: -5159390673
+- Telegram group ID: [REDACTED]
